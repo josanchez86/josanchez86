@@ -71,7 +71,8 @@ Welcome to my GitHub profile. I'm Industrial Engineer, Data Analyst, I am passio
 - **Portafolio:** Próximamente
 
 #
-## 🚀 **Dato curioso:** Creo que los datos, cuando se analizan correctamente, permiten tomar las decisiones de una forma acertada. Mi misión es convertir datos en información procesable para optimizar los procesos.
+## 🚀 **Dato curioso:**
+Creo que los datos, cuando se analizan correctamente, permiten tomar las decisiones de una forma acertada. Mi misión es convertir datos en información para optimizar los procesos.
 
 #
 ## 🛠️ Mis estadísticas:
