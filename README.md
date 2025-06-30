@@ -22,42 +22,42 @@ Welcome to my GitHub profile. I'm Industrial Engineer, Data Analyst, I am passio
 #
 ## 📊 Proyectos Recientes
 
-### [Identificar Operadores Ineficientes](https://github.com/josanchez86/proyecto_14_4_trabajadores_ineficientes)
+### [Identificar Operadores Ineficientes](https://github.com/josanchez86/s14_4)
 
 #### Herramientas utilizadas: Python
 #### Resumen: Identiqué los operadores ineficientes y desarollé los parámetros para identificar a dichos trabajadores según las métricas de su trabajo.
 
-### [Métricas de ventas de libros en línea](https://github.com/josanchez86/proyecto_14_3_sql_libros_python)
+### [Métricas de ventas de libros en línea](https://github.com/josanchez86/s14_3)
 
 #### Herramientas utilizadas: Python, SQL
 #### Resumen: Hallé métricas de calificación de libros, reseñas de texto, calificaciones de autores según diversas condiciones.
 
-### [Comparar tasas de conversión entre grupo de control y grupo con modificaciones](https://github.com/josanchez86/proyectos_14_2_pruebas_de_hipotesis)
+### [Comparar tasas de conversión entre grupo de control y grupo con modificaciones](https://github.com/josanchez86/s14_2)
 
 #### Herramientas utilizadas: Python
 #### Resumen: Determiné que las modificaciones realizadas a la páginas de la App no aumentaron la tasa de conversión sino que continuaron siendo iguales a las del grupo de control.
 
-### [Retención de clientes en Model Fitness](https://github.com/josanchez86/proyecto_13_pronosticos_y_predicciones)
+### [Retención de clientes en Model Fitness](https://github.com/josanchez86/s13)
 
 #### Herramientas utilizadas: Python
 #### Resumen: Identifiqué que los clientes con mayor probabilidad de cancelación de contrato, son aquellos cuyo contrato de servicio es de un mes y aquellos cuyos gastos extra en otros servicios son bajos.
 
-### [Optimización del embudo de marketing](https://github.com/josanchez86/proyecto_11_final_segundo_modulo)
+### [Optimización del embudo de marketing](https://github.com/josanchez86/s11)
 
 #### Herramientas utilizadas: Python
 #### Resumen: Hallé diferencias significativas en la tasa de conversión entre ambos grupos de control y el grupo con modificaciones.
 
-### [Decisiones estratégicas con test A/B](https://github.com/josanchez86/proyecto_10_tomar_decisiones_de_negocios_basadas_en_datos)
+### [Decisiones estratégicas con test A/B](https://github.com/josanchez86/s10)
 
 #### Herramientas utilizadas: Python
 #### Resumen: Identifiqué que el tamaño promedio de compra para cada grupo es igual, mientras que la atsa de conversión es mayor para el grupo con modificaciones que para el grupo de control.
 
-### [Optimización de marketing](https://github.com/josanchez86/proyecto_9_analisis_de_negocio)
+### [Optimización de marketing](https://github.com/josanchez86/s9)
 
 #### Herramientas utilizadas: Python
 #### Resumen: Logré identificar que la inversión en publicidad era muy grande respecto a los ingresos que obtiene la empresa con esos clientes; logré identificar que con el transcurrir del tiempo, el LTV se hace más pequeño, lo cual implica que habrán menores probabilidades de que la empresa obtenga el debido retorno de la inversión en publicidad.
 
-### [Identificar tarifa que genera mayor rentabilidad](https://github.com/josanchez86/proyecto_5_analisis_estadistico_de_datos)
+### [Identificar tarifa que genera mayor rentabilidad](https://github.com/josanchez86/s5)
 
 #### Herramientas utilizadas: Python
 #### Resumen: Identifiqué que el ingreso promedio por los clientes del plan ultimate es un 20% mayor que el de los clientes del plan surf.
