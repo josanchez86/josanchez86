@@ -1,4 +1,5 @@
-![Banner](https://github.com/user-attachments/assets/b16263ae-baf7-42e3-99e5-dde43ae2e526)
+![Banner](https://github.com/user-attachments/assets/7db83199-6b94-4bc5-ac12-ea383696c861)
+
 #
 ## Hola soy Joan Manuel Sanchez Sandia👋
 Bienvenido a mi perfil de GitHub. Soy Ingeniero Industrial y Analista de Datos, soy apasionado del estudio de los datos para la toma de decisiones enfocadas en el logro de los objetivos organizacionales.
