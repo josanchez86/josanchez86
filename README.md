@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/7db83199-6b94-4bc5-ac12-ea383696c861)
+![Banner](https://github.com/user-attachments/assets/e62fd036-f797-40d8-ba04-82c3fdbd851c)
 
 #
 ## Hola soy Joan Manuel Sanchez Sandia👋
